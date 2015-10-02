@@ -1,0 +1,9 @@
+{
+  "name": "scrollerjs",
+  "version": "1.2.1",
+  "repository": "swipestudio/scrollerjs",
+  "description": "A JavaScript library that helps you build performant UI components for the web.",
+  "scripts": [
+    "src/scroller.js"
+  ]
+}
